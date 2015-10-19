@@ -1,0 +1,4 @@
+[submodule "git-sm-dependency"]
+	path = git-sm-dependency
+	url = https://github.com/inkybutton/git-sm-dependency
+	branch = devel
