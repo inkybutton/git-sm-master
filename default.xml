@@ -8,6 +8,6 @@
            sync-j="4" />
 
   <project name="OpenCMISS-Examples/tworegions" remote="github" path="tworegions" revision="refs/heads/devel"/>
-  <project name="inkybutton/git-sm-master" remote="github" revision="refs/heads/master"/>
+  <project name="inkybutton/git-sm-master" remote="github" path="." revision="refs/heads/master"/>
 
 </manifest>
